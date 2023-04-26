@@ -77,6 +77,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - [SoundBridge](https://soundbridge.io/) - A free DAW in open BETA that's intended for simplicity. Available for Windows and macOS.
 - [Waveform Free](https://www.tracktion.com/products/waveform-free) - The free version of Waveform Pro that has plenty of features for music creation. Available for Windows, macOS, and Linux (Ubuntu).
 - [Cakewalk by Bandlab](https://www.bandlab.com/products/cakewalk) - Formerly Cakewalk Sonar, this DAW was purchased by Bandlab and became free to the public. Available for Windows only.
+- [Caustic 3](https://singlecellsoftware.com/caustic) - Simple tool inspired by rack-mount synthesizers, somewhat limited features but easy to grasp. Intended for mobile but free version is available for Windows and macOS.
 
 ### Chromatic Scale Guides
 - [How to MAKE CHROMATICS (Friday Night Funkin) - bbpanzu](https://youtu.be/a7SGu1fNthc)
@@ -138,6 +139,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
     - [Edak Engine Docs](https://github.com/Skullbite/Edak-Engine/wiki) - Edak Engine modding documentation.
 - *Forever Engine* - An archived rewrite of the game, originally written by Yoshubs. Includes performance reworks, HScript support, and more.
   - [Forever Engine Feather](https://github.com/Pluma-Team/Forever-Engine-Feather) - A fork of Forever Engine that includes all of its features, a scripting system based on HScript, called SScript, reorganized codebase, an events system based off of Hypno's Lullaby v2 and fully softcoded weeks and characters.
+  - [Forever Engine Plus](https://github.com/Sword352/Forever-Engine-Plus) - A fork of Forever Engine which aims to maintain the engine by adding and optimizing features as well as fixing its bugs. Allow softcoding features for basic objects such as characters, stages, weeks, but also advanced objects such as shaders.
 - [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine) - A fork of base game that provides full HScript support for advanced softcoding, along with sorted and half rewritten source for optimisation and ease of use.
   - [Codename Engine Docs](https://github.com/YoshiCrafter29/CodenameEngine/wiki) - Codename Engine modding documenation.
 - [Andromeda Engine Legacy](https://github.com/nebulazorua/andromeda-engine-legacy) - Fork of Funkin' with customization and gameplay in mind.
@@ -148,7 +150,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 - [Leather Engine](https://github.com/Leather128/LeatherEngine) - An engine that includes 1-21 key support, supports mod loading with Polymod and has other useful features like a stage editor.)
 - [Altronix Engine](https://github.com/Altronix-Team/FNF-AltronixEngine) - An engine that provides the support for creating localizations into different languages and HScript modding support with Polymod HScript classes and small script files. Also, engine has integration with GameJolt with achievements.
-- [CrowEngine](https://github.com/EyeDaleHim/CrowEngine) - A modified version of base Funkin' that has been rebuilt to include comprehensive documentation for modding and to introduce new features.
+- [Crow Engine](https://github.com/EyeDaleHim/Crow-Engine) - A 1:1 recreation of Base Game, introduces extreme performance upgrades, source code easier to work with.
 - [Modding+](https://github.com/FunkinModdingPlus/ModdingPlus) - An engine with HScript support with the intention of easy customization and enhanced gameplay options.
   - [Disappointing Plus](https://github.com/AFunkinDisappointment/DisappointingPlus) - A fork of Modding+ with additional features such as framerate adjustment, camera movement whenever a character sings, and an improved character swap function.
 
